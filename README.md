@@ -105,7 +105,4 @@ This project is licensed under the MIT License.
 * [NewsAPI](https://newsapi.org/)
 * [Twilio](https://www.twilio.com/)
 
-```
 
-Let me know if you'd like help publishing this to GitHub or converting it into a PDF version.
-```

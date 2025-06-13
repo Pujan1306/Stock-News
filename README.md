@@ -1,9 +1,3 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later.
-
-In the meantime, you can manually create a `README.md` file. Just open a text editor and paste the following content into a new file named `README.md` inside your project folder:
-
----
-
 ````markdown
 # 📈 Stock News Notifier
 
@@ -75,7 +69,6 @@ This Python project monitors the stock price of **Tesla Inc. (TSLA)** and sends 
    python main.py
    ```
 
----
 
 ## 📁 Files Included
 

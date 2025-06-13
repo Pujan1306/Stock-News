@@ -1,4 +1,3 @@
-````markdown
 # 📈 Stock News Notifier
 
 This Python project monitors the stock price of **Tesla Inc. (TSLA)** and sends the latest news via **WhatsApp** if the price changes significantly (more than ±5%). It combines real-time data from Alpha Vantage, news from NewsAPI, and message delivery using Twilio.
@@ -41,10 +40,10 @@ This Python project monitors the stock price of **Tesla Inc. (TSLA)** and sends 
 ## 🧪 Installation & Setup
 
 1. **Clone the repo:**
-   ```bash
+   '''bash
    git clone https://github.com/yourusername/stock-news-notifier.git
    cd stock-news-notifier
-````
+'''
 
 2. **Install dependencies:**
 
